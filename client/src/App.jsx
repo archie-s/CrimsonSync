@@ -36,7 +36,7 @@ function App() {
       closeNav();
     }
     if (scrollTopButtonRef.current) {
-      if (window.scrollY > 20) {
+      if (window.scrollY > 100) {
         scrollTopButtonRef.current.classList.add('opacity-100');
         scrollTopButtonRef.current.classList.remove('opacity-0');
       } else {
