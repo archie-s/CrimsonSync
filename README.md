@@ -1,4 +1,4 @@
-# CRIMSONSYNC
+# CRIMSONSYNC - proof of concept
 
 Is an AI-powered blood bank management system utilizing IBM Watsonx to enhance blood supply efficiency. Key features include:
 
